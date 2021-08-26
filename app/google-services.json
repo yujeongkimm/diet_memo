@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "171302742567",
+    "project_id": "check-cf5f8",
+    "storage_bucket": "check-cf5f8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:171302742567:android:4a265c232dcd4b44c1fc02",
+        "android_client_info": {
+          "package_name": "org.techtown.diet_memo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "171302742567-r28g7e82mcq4776d5heps8th4fj3mqnv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbmnEfH8Usbf1Yv8YoBP-BiGUCVHpb9v0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "171302742567-r28g7e82mcq4776d5heps8th4fj3mqnv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
